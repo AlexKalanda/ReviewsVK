@@ -4,7 +4,7 @@
 
 1. Доработал ячейки до "максимальный вариант"
 <div>
-  <a href="https://github.com/AlexKalanda/Test_VK/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-02%20at%2016.51.37.png">
+  <a href="[https://github.com/AlexKalanda/Test_VK/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-02%20at%2016.51.37.png](https://github.com/AlexKalanda/ReviewsVK/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-02%20at%2016.51.37.png)">
     <img src="https://github.com/AlexKalanda/Test_VK/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-02%20at%2016.51.37.png" alt="Фото 1" width="45%" />
   </a>
   <a href="https://github.com/AlexKalanda/Test_VK/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-02%20at%2016.52.14.png">
